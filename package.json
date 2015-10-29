@@ -1,0 +1,16 @@
+{
+  "name": "hqd",
+  "version": "1.0.0",
+  "description": "Hach HQd series pH meter control",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "pH",
+    "meter",
+    "hach"
+  ],
+  "author": "Mike Harsch <mike@harschsystems.com>",
+  "license": "MIT"
+}
